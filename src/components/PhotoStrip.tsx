@@ -4,9 +4,9 @@ import Image from "next/image";
 import { useState } from "react";
 
 const photos = [
-  "/photos/booth1.jpg",
-  "/photos/booth2.jpg",
-  "/photos/booth3.jpg",
+  "/photos/booth1.jpeg",
+  "/photos/booth2.jpeg",
+  "/photos/booth3.jpeg",
 ];
 
 export default function PhotoStrip() {
