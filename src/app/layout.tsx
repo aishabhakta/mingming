@@ -8,8 +8,8 @@ const fredoka = Fredoka({
 });
 
 export const metadata: Metadata = {
-  title: "Happy Valentine's Day Ming Ming!",
-  description: "A cute lil journey site 💙☁️",
+  title: "I love u gleeb :3",
+  description: "A cute lil site for cute lil mingo💙☁️",
 };
 
 export default function RootLayout({
